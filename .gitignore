@@ -1,5 +1,5 @@
 *.class
-vault.data
+resources/vault.dat
 .idea/
 .vscode/
 out/
