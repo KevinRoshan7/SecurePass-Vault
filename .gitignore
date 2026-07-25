@@ -1,0 +1,6 @@
+*.class
+vault.data
+.idea/
+.vscode/
+out/
+bin/
