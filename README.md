@@ -1,6 +1,6 @@
 # SecurePass Vault
 
-SecurePass Vault is a robust, local-first console application designed to help you securely store, manage, and audit your credentials. Built with modern cryptographic practices, it ensures your sensitive data is kept private and safe right on your own machine.
+SecurePass Vault is a robust, local-first console application designed to help you securely store, manage, and audit your credentials. Built with modern cryptographic practices, it ensures your sensitive data is kept private and safe right on your own machine..
 
 ## Philosophy
 
